@@ -9,13 +9,6 @@ twitter_username:
 github_username:
 # Team names, titles and social links
 people:
-- name: MIPT
-  pic: mipt
-  position: Lead Designer
-  social:
-    - title: github
-      url: #
-
 - name: Alex Seikin 1
   pic: seikin
   position: Lead Designer
