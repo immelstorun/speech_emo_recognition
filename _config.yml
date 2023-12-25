@@ -9,37 +9,37 @@ twitter_username:
 github_username:
 # Team names, titles and social links
 people:
-- name: Alex Seikin 1
+- name: Alex Seikin
   pic: seikin
-  position: Lead Designer
+  position: Tech Lead, Designer, Medical expert
+  social:
+    - title: github
+      url: https://github.com/immelstorun
+
+- name: Ekaterina Kazachenko
+  pic: kazach
+  position: Medical expert, Oncologist
   social:
     - title: github
       url: #
 
-- name: Alex Seikin 2
-  pic: seikin
-  position: Lead Designer
+- name: Evgeniya Borkovskaya
+  pic: bork
+  position: Scientist, Tester
   social:
     - title: github
       url: #
 
-- name: Alex Seikin 3
-  pic: seikin
-  position: Lead Designer
+- name: Elena Smola
+  pic: smola
+  position: Scientist, Tester
   social:
     - title: github
       url: #
 
-- name: Alex Seikin 4
-  pic: seikin
-  position: Lead Designer
-  social:
-    - title: github
-      url: #
-
-- name: Alex Seikin 5
-  pic: seikin
-  position: Lead Designer
+- name: Olesya Krumkacheva
+  pic: 1
+  position: Scientist, Tester
   social:
     - title: github
       url: #
