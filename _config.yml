@@ -10,7 +10,7 @@ github_username:
 # Team names, titles and social links
 people:
 - name: Kay Garland
-  pic: 1
+  pic: seikin
   position: Lead Designer
   social:
     - title: twitter
@@ -21,7 +21,7 @@ people:
       url: #
 
 - name: Larry Parker
-  pic: 2
+  pic: 1
   position: Lead Marketer
   social:
     - title: twitter
