@@ -9,61 +9,69 @@ twitter_username:
 github_username:
 # Team names, titles and social links
 people:
-- name: Alex Seikin
-  pic: seikin
+- name: MIPT
+  pic: mipt
   position: Lead Designer
   social:
-    - title: telegram
-      url: #
     - title: github
       url: #
 
-- name: Larry Parker
-  pic: 1
-  position: Lead Marketer
+- name: Alex Seikin 1
+  pic: seikin
+  position: Lead Designer
   social:
-    - title: twitter
+    - title: github
+      url: #
+
+- name: Alex Seikin 2
+  pic: seikin
+  position: Lead Designer
+  social:
+    - title: github
+      url: #
+
+- name: Alex Seikin 3
+  pic: seikin
+  position: Lead Designer
+  social:
+    - title: github
+      url: #
+
+- name: Alex Seikin 4
+  pic: seikin
+  position: Lead Designer
+  social:
+    - title: github
+      url: #
+
+- name: Alex Seikin 5
+  pic: seikin
+  position: Lead Designer
+  social:
+    - title: github
       url: #
 
 
-- name: Diana Petersen
-  pic: 1
-  position: Lead Developer
-  social:
-    - title: twitter
 
 
-- name: Diana Petersen
-  pic: 1
-  position: Lead Developer
-  social:
-    - title: twitter
 
+# # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# social:
+#   - title: twitter
+#     url: http://twitter.com/jekyllrb
+#   - title: facebook
+#     url:
+#   - title: stack-overflow
+#     url: http://stackoverflow.com/questions/tagged/jekyll
+#   - title: bitbucket 
+#     url: http://bitbucket.org/jekyll
+#   - title: github
+#     url: http://github.com/jekyll
 
-- name: Diana Petersen
-  pic: 1
-  position: Lead Developer
-  social:
-    - title: twitter
-
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+# # Postal address (add as many lines as necessary)
+# address:
+#   - line: 3481 Melrose Place
+#   - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
