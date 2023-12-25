@@ -11,14 +11,14 @@ github_username:
 people:
 - name: Alex Seikin
   pic: seikin
-  position: Tech Lead, Designer, Medical expert
+  position: Data Scientist, Head
   social:
     - title: github
       url: https://github.com/immelstorun
 
 - name: Ekaterina Kazachenko
   pic: kazach
-  position: Medical expert, Oncologist
+  position: Medical expert
   social:
     - title: github
       url: #
@@ -39,7 +39,7 @@ people:
 
 - name: Olesya Krumkacheva
   pic: 1
-  position: Scientist, Tester
+  position: Biophysic expert
   social:
     - title: github
       url: #
